@@ -5,4 +5,5 @@ Complicator
 
 ## How to install?
 
-Complicator calculate complexity. We use age, number of FB friends, number of missed buses,...
+Complicator calculate complexity. We use age, number of FB friends, number of missed buses, number of family members.
+
