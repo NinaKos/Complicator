@@ -1,16 +1,10 @@
-# Na zacetek damo knjiznice, ki jih uporabljamo
 from datetime import datetime
 from decimal import Decimal
 
 # Naslednja sprem je 'najpomembnejsa', zato z veliko
 MAX_SCORE = 3
 
-# Funkcija
-# V age (lahko poimenujes kako drugace) povemo s katero vrednostjo 
-# naj dela funkcija
-# Funkcije lahko imajo argumente ali ne
-# Na podlagi tega kar dobijo vrzejo ven nek rezultat
-# Funkcijo definiraj na zacetku datoteke !!
+
 def starost(stevilo):
 	if  stevilo<20:
 		return 1
